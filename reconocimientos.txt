@@ -1,0 +1,6 @@
+1,true,true,500
+2,false,true,300
+3,true,false,1000
+1,true,true,200
+2,true,false,400
+3,false,false,600
